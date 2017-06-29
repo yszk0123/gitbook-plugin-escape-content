@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "gitbook-plugin-escape-content",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/yszk0123/escape-content.git",
+  "author": "Yuji Suzuki <y0suzuki0123@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "gitbook": "*"
+  }
+}
